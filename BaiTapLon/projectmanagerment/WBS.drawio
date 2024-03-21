@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-03-21T04:10:01.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Kih6z1K7G5226JpXSnJJ" version="24.0.7" type="device">
+  <diagram name="Page-1" id="NJa61SmhOkflPNuEFAiK">
+    <mxGraphModel dx="1883" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ADp7LQh06O99sdTo11K-1" value="Khảo sát yêu cầu và thu thập thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-2" value="Phân tích và thiết kế" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-3" value="Hiện thực" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-4" value="Bàn giao và huấn luyện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-5" value="Phân tích nhu cầu và yêu cầu của khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-6" value="Thu thập thông tin về hệ thống hiện tại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-7" value="Xác định yêu cầu chức năng từ khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-8" value="Phân tích yêu cầu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-9" value="Phân tích yêu cầu chức năng và phi chức năng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-10" value="Xác định chức năng và yêu cầu kỹ thuật" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-11" value="Tạo bản tóm tắt yêu cầu (Requirements Document)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-12" value="Thiết kế hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-13" value="Thiết kế cơ sở dữ liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-14" value="Xác định cầu trúc dữ liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-15" value="Thiết kế bản và mối quan hệ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-16" value="Thiết kế giao diện người dùng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-19" value="Thiết kế giao diện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-20" value="Thiết kế wireframe và layout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-21" value="Xác định kiến trúc hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-22" value="Xác định các thành phần và module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ADp7LQh06O99sdTo11K-23" value="Thiết kế kiến trúc hệ thống và modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
